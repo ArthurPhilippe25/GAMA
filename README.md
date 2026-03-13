@@ -5,3 +5,7 @@ GAMA: Montagem Genômica e Anotação Microbiana - Projeto IC-Junior Laboratóri
 O Projeto Genome Assembler é um software que reúne alguns programas muito usados ​​no setor da bioinformática para fazer o processo de genomificação de algumas leituras. Os programas que foram usados ​​no projeto são: Unicycler, CheckM2, Quast e uma adaptação do Prokka, feita por um integrante do laboratório, AutoProkka.
 
 O projeto consiste em automatizar os processos desses programas que são todos usados ​​na linha de comando no ambiente conda de um servidor, ou seja, o projeto visa reduzir o tempo de produção e a taxa de erros no laboratório.
+
+##### PARA UTILIZAÇÃO ####
+- Baixe todos os arquivos e rode somente o de nome "App.py" ele é quem é a interface principal.
+- Informações de utilização da interface estão todas na aba "Ajuda".
